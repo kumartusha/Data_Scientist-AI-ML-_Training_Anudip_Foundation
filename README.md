@@ -152,14 +152,14 @@ Check out the **Kaggle Dataset** we’ll be using for this project here: [Link t
 ---
 
 ## 💻 **Getting Started**
-# 1. Clone the Repository:
+### 1. Clone the Repository:
 <code>git clone https://github.com/your-username/DANLC.git</code>
-# 2. Install Required Packages:
+### 2. Install Required Packages:
 
 For Python: <code>pip install -r requirements.txt</code>
-# 3. Explore Modules: Each module has its own folder with detailed instructions, examples, and exercises.
+### 3. Explore Modules: Each module has its own folder with detailed instructions, examples, and exercises.
 
 ## 👨‍💻 Contributions & Feedback
-We welcome contributions and feedback! If you encounter issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
+#### We welcome contributions and feedback! If you encounter issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
 ---
 
