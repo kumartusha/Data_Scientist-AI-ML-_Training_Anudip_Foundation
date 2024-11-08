@@ -9,26 +9,47 @@ With a blend of **self-learning** and **Instructor-Led Training (ILT)**, this co
 
 ---
 
-## 📅 **Index**  
-1. No Code Data Visualization  
-   - Advanced Excel  
-   - Power BI  
-<br>
+## 📅 **Index**
 
-2. Python Programming  
-<br>
+### 1️⃣ **No Code Data Visualization**  
+   - **Advanced Excel**  
+      ![Excel Icon](https://img.icons8.com/color/48/000000/microsoft-excel-2019.png)  
+      Learn data visualization with advanced Excel functionalities like VLOOKUP, HLOOKUP, Pivot Tables, and Charts.  
+      <br>
 
-3. MySQL Database  
-<br>
+   - **Power BI**  
+      ![Power BI Icon](https://img.icons8.com/color/48/000000/power-bi.png)  
+      Build interactive dashboards and visualizations using Power BI, including data loading, transformation, and report creation.  
+      <br><br>
 
-4. Communicative English  
-<br>
+### 2️⃣ **Python Programming**  
+   ![Python Icon](https://img.icons8.com/color/48/000000/python--v1.png)  
+   Master Python fundamentals, including syntax, data types, functions, and libraries like Pandas and NumPy, essential for data analysis and manipulation.  
+   <br><br>
 
-5. Business Communication  
-<br>
+### 3️⃣ **MySQL Database**  
+   ![MySQL Icon](https://img.icons8.com/color/48/000000/mysql-logo.png)  
+   Develop skills in SQL for data querying, manipulation, and database management. Topics include SELECT statements, joins, subqueries, and data normalization.  
+   <br><br>
 
-6. Project with Mentoring by Industry Professionals  
-<br><br>
+### 4️⃣ **Communicative English**  
+   ![English Icon](https://img.icons8.com/color/48/000000/language.png)  
+   Enhance verbal and written communication skills, focusing on professional vocabulary, email etiquette, and presentation skills essential for a business environment.  
+   <br><br>
+
+### 5️⃣ **Business Communication**  
+   ![Communication Icon](https://img.icons8.com/color/48/000000/business.png)  
+   Learn effective business communication techniques, including report writing, interpersonal skills, and handling professional interactions.  
+   <br><br>
+
+### 6️⃣ **Project with Mentoring by Industry Professionals**  
+   ![Project Icon](https://img.icons8.com/color/48/000000/task.png)  
+   Apply your knowledge in a **capstone project** guided by industry mentors. Develop end-to-end data solutions with real-world datasets, and gain hands-on experience in problem-solving, data visualization, and reporting.  
+   <br><br>
+---
+
+Each module provides in-depth, practical experience, helping you become proficient in data analysis, visualization, and communication skills essential for today's data-driven workplaces.
+
 
 ---
 
