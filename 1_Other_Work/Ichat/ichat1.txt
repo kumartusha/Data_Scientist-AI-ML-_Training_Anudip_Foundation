@@ -1,0 +1,12 @@
+1. Can You Tell me about Yourself and Your Education Background?
+  ->   "Good morning, my name is Tushar Kumar and I am originally from Maudi Nagar Ghaziabad. I completed my schooling at Tulsi Ram Maheshwari Public 
+School and currently I am pursuing a Bachelor of Technology degree from Dr. Kedarnath Maudi Institute of Engineering and Technology. I have some experience 
+in the field of data analysis and web development, like to learn about data structures and algorithms, and I am also up to date with new technologies like machine
+ learning, AI, and blockchain. My hobbies include playing cricket and listening to music, and that is all about me, thank you."
+
+2. Describe a challenging situation you faced during your academic projects or internships. How did you handle it?
+
+Here's a concise answer you could use:
+
+During my internship at [Company Name], I faced a challenge when [Briefly describe the challenge]. To overcome this,
+ I [Explain your actions to address the challenge]. This experience helped me develop [Relevant skills or qualities].
