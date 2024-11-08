@@ -86,8 +86,6 @@ Each module provides in-depth, practical experience, helping you become proficie
    - SUMPRODUCT and SUMIFS, COUNTIF, COUNTIFS  
    <br>
 
-... (continue with additional sections similarly)  
-
 <br>
 
 ---
@@ -105,8 +103,6 @@ Each module provides in-depth, practical experience, helping you become proficie
    - Customizing Visuals  
    <br>
 
-... (continue with additional sections similarly)  
-
 <br>
 
 ---
@@ -121,8 +117,6 @@ Each module provides in-depth, practical experience, helping you become proficie
    - Installing Python Software  
    - Python Different Editors and IDEs  
    <br>
-
-... (continue with additional sections similarly)  
 
 <br>
 
@@ -139,20 +133,10 @@ Each module provides in-depth, practical experience, helping you become proficie
    - Basic SQL Commands (SELECT, INSERT, UPDATE, DELETE)  
    <br>
 
-... (continue with additional sections similarly)  
-
 <br>
 
 ---
 
-## 💼 **Project with Industry Mentoring**  
-Engage in a **capstone project** with guidance from industry professionals. This project will enable you to apply all the skills learned throughout the course. <br>
-
-1. **Project Kickoff and Planning**  
-2. **Setting Up Project Environment**  
-3. **Data Exploration and Preparation**  
-4. **Integration and Testing**  
-5. **Project Finalization and Presentation**  
 
 Check out the **Kaggle Dataset** we’ll be using for this project here: [Link to Dataset](https://www.kaggle.com/) <br><br>
 
@@ -167,10 +151,15 @@ Check out the **Kaggle Dataset** we’ll be using for this project here: [Link t
 
 ---
 
-## 🏆 **Get Started!**  
-Start your journey in data analytics with no and low-code tools today! 🌟 This course provides hands-on experience and industry exposure, preparing you for data-driven roles in various fields.  
-Feel free to reach out if you have questions or need assistance. Let’s get started and explore the world of data analytics together! 📈  
-<br>
+## 💻 **Getting Started**
+# 1. Clone the Repository:
+<code>git clone https://github.com/your-username/DANLC.git</code>
+# 2. Install Required Packages:
 
+For Python: <code>pip install -r requirements.txt</code>
+# 3. Explore Modules: Each module has its own folder with detailed instructions, examples, and exercises.
+
+## 👨‍💻 Contributions & Feedback
+We welcome contributions and feedback! If you encounter issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
 ---
 
