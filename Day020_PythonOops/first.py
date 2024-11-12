@@ -108,27 +108,28 @@
 # c1 = Car()
 # c1.start()                    
 
-class BankAccount:
-    def __init__(self, account, total_amount):
-        self.account = account
-        self.total_amount = total_amount
+# class BankAccount:
+#     def __init__(self, account, total_amount):
+#         self.account = account
+#         self.total_amount = total_amount
         
-    def addBalance(self, amount):
-        self.total_amount = self.total_amount + amount
-        print("The amount to be added:- ", amount)
-        print("The total Balance are:- ", self.total_amount)    
+#     def addBalance(self, amount):
+#         self.total_amount = self.total_amount + amount
+#         print("The amount to be added:- ", amount)
+#         print("The total Balance are:- ", self.total_amount)    
         
-    def withdraw(self, amount):
-        print("The withdraw Anount are:- ", amount)
-        self.total_amount = self.total_amount - amount
-        print("The remaining bbalance are:- ", self.total_amount)
+#     def withdraw(self, amount):
+#         print("The withdraw Anount are:- ", amount)
+#         self.total_amount = self.total_amount - amount
+#         print("The remaining bbalance are:- ", self.total_amount)
         
-    def balance(self):
-        print("The Total amount are:- ", self.total_amount)        
+#     def balance(self):
+#         print("The Total amount are:- ", self.total_amount)        
 
-b1 = BankAccount("1234556", 30000)
-b1.addBalance(10000)
-b1.withdraw(5000)
-b1.balance()
+# b1 = BankAccount("1234556", 30000)
+# b1.addBalance(10000)
+# b1.withdraw(5000)
+# b1.balance()
 
+        
         
