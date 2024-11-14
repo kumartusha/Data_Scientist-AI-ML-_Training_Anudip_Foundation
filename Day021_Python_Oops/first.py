@@ -141,4 +141,29 @@
 
 # Polymorphism concept in Python
 
+class Parent:
+    def __init__(self, name, age):
+        self.name = name            # Public attribute
+        self._age = age             # Protected attribute
+    
+    def show_info(self):
+        print(f"Name: {self.name}, Age: {self._age}")
+
+class Child(Parent):
+    def show_age(self):
+        print(f"Accessing protected _age from subclass: {self._age}")
+
+# Creating instances
+parent = Parent("Alice", 40)
+child = Child("Bob", 20)
+
+# Accessing protected attribute within the class
+parent.show_info()  # Name: Alice, Age: 40
+
+# Accessing protected attribute within subclass
+child.show_age()    # Accessing protected _age from subclass: 20
+
+# Accessing protected attribute from outside (not recommended)
+print(parent._age)  # 40
+
         
