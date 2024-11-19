@@ -161,5 +161,5 @@ For Python: <code>pip install -r requirements.txt</code>
 
 ## 👨‍💻 Contributions & Feedback
 #### We welcome contributions and feedback! If you encounter issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
-----
+---
 
