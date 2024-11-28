@@ -2,7 +2,7 @@
 #  Some system funtion.
 import sys
 
-num1 = 20
+num1 = 30
 num2 = 0
 
 try:
