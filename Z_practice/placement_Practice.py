@@ -205,3 +205,88 @@
 #         else:
 #             print(at_signs + " " * (n - len(at_signs) + mid) + "*")       
 # print_pattern(3)    
+
+
+# k1 = k2 = 1
+# list1 = []
+# for i in range(6):
+#     list1 = []
+#     for j in range(6):
+#         if(i >= j):
+#             if(i % 2 == 1):
+#                 list1.append(k1)
+#             else:
+#                 print(k1, end=' ')
+#             k1 += 1
+#         else:
+#             # print(" ", end=' ')
+#             pass
+#     if(i % 2 == 1):
+#         print()          
+#         print(list1[::-1])  
+
+# rows = 5  # Number of rows
+# current_num = 1
+
+# for i in range(1, rows + 1):  # Loop through rows
+#     temp = []  # Temporary list to store numbers for the row
+#     for j in range(i):  # Add numbers to the current row
+#         temp.append(current_num)
+#         current_num += 1
+    
+#     # Reverse the row numbers if the row index is odd
+#     if i % 2 == 0:
+#         temp.reverse()
+    
+#     # print(" ".join(map(str, temp)))  # Print the row as a space-separated string
+#     print(" ".join(map(str, temp)))       # Returns Like this "1 2 3"
+
+
+# row = 4
+# col = 7
+
+# for i in range(row):
+#     for j in range(col):
+#         if(j >= (row + 1) - i and j <= (col + 1 + i) - row + 1):
+#             print("*", end=" ")
+#         else:
+#             print(" ", end=' ')
+#     print()            
+
+# row = int(input("Enter the row"))
+# col = int(input("Enter the col"))
+
+# for i in range(1,row + 1):
+#     for j in range(1,col + 1):
+#         prin
+#             print("*", end=' ')
+#         else:
+#             print(" ", end=' ')    
+#     print()        
+            
+# for i in range(1,row + 1):
+#     for j in range(1,col + 1):
+#         if (j > i and j < (col + 1) - i):
+#             print("*", end=' ')
+#         else:
+#             print(" ", end=' ')    
+#     print()
+        
+# def printPattern(n):
+#     col = n * 2 - 1
+
+#     for i in range(1,n + 1):
+#         for j in range(1, col + 1):
+#             if(j >= (n + 1) - i and j <= (n - 1) + i):
+#                 print("*", end=' ')
+#             else:
+#                 # pass
+#                 print(" ", end =' ')
+#         print()   
+
+# printPattern(11)                
+        
+
+  
+                        
+            
