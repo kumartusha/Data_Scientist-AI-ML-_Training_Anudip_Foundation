@@ -284,9 +284,175 @@
 #                 print(" ", end =' ')
 #         print()   
 
-# printPattern(11)                
-        
+# printPattern(11)     
 
-  
-                        
-            
+
+#  Print the patterns By using the python language
+
+# for i in range(1,row + 1):
+#     for j in range(1, col + 1):
+#         # if(j <= (row + 1) - i or j >= (row - 1) + i):
+#         if(j >= i and j <= (row + 3) - i or j >= (row + 1) + i and j <= (col + 1) - i):
+#             print("*", end=' ')
+#         else:
+#             print(" ", end=' ')
+#     print()          
+
+# row = 5
+# col = 9
+# k = 1
+# l = 5
+
+# for i in range(1,row + 1):
+#     for j in range(1, col + 1):
+#         if( j < i or j > (col + 1) - i):
+#             print(k, end='  ')
+#             k += 1
+#         else:
+#             print(" ", end=' ')     
+#     print()      
+# for i in range(1,row + 1):
+#     for j in range(1, col + 1):
+#         if(j <= (row + 1) - i or j >= (row - 1) + i):
+#             print(l, end='  ')
+#             l -= 1
+#         else:
+#             print(" ", end=' ')
+#     print()      
+    
+# for i in range(1,10):
+#     for j in range(1,10):
+#         if(i == 1 or i == 9 or j == 1 or j == 9):
+#             print("*", end=' ')
+#         else:
+#             print(" ", end=' ')
+#     print()      
+
+# row = 5
+# col = 5
+# k = 1
+# l = 2
+
+# for i in range(1, row + 1):
+#     # k += 2
+#     for j in range(1, col + 1):
+#         if( i >= j):
+#             if(i % 2 == 0):
+#                 print(l, end=' ')
+#             else:
+#                 print(k, end=' ')
+#         else:
+#             print(" ", end=' ')
+#     print()            
+
+
+
+#       1
+#     2 2 2
+#   3 3 3 3 3
+# 4 4 4 4 4 4 4
+#   5 5 5 5 5
+#     6 6 6
+#       7
+# row = 4
+# col = 7
+# k = row  - 1
+# l = -1
+
+# for i in range(1, row + 1):
+#     l += 1
+#     for j in range(1, col + 1):
+#         if(j > (row + 1) - i and j < (row - 1) + i):
+#             print(l, end=' ')
+#         else:
+#             print(" ", end=' ')
+#     print()            
+
+# for i in range(1, row + 1):
+#     k += 1
+#     for j in range(1, col + 1):
+#         if(j >= i and j <= (col + 1) - i):
+#             print(k, end=' ')
+#         else:
+#             print(" ", end=' ')
+#     print()         
+
+# ch = 64
+
+# for i in range(1,6):
+#     ch += 1
+#     for j in range(1,6):
+#         if(i >= j):
+#             print(chr(ch), end=' ')
+#         else:
+#             print(" ", end=' ')
+#     print()
+
+# row = 5
+# col = 5
+
+
+# for i in range(1,row):
+#     for j in range(1,col):
+#         # if(i == 1 or i == 9):
+#         if(j == 1 or i == row or i == 1):
+#             print("*", end=' ')
+#         else:
+#             print(" ", end=' ')
+#     print()    
+
+# for i in range(1,row):
+#     for j in range(1,col):
+#         # if(i == 1 or i == 9):
+#         if(i == col or j == col):
+#             print("*", end=' ')
+#         else:
+#             print(" ", end=' ')
+#     print()
+
+# row = 6
+# col = 6
+
+# for i in range(1,row):
+#     for j in range(1,col):
+#         if(i == row // 2  or j == col // 2):
+#             print("*", end=' ')
+#         else:
+#             print(" ", end=' ')
+#     print()            
+
+# row = 6
+# col = 6
+
+# for i in range(1,row):
+#     for j in range(1,col):
+#         if(i == j  or i + j == row):
+#             print("*", end=' ')
+#         else:
+#             print(" ", end=' ')
+#     print()            
+
+
+
+# row = 6
+# col = 6
+
+# for i in range(1,row):
+#     for j in range(1,col):
+#         if(j == 1  or i == 5 or i == j):
+#             print("*", end=' ')
+#         else:
+#             print(" ", end=' ')
+#     print()
+
+# row = 6
+# col = 6
+
+# for i in range(1,row):
+#     for j in range(1,col):
+#         if(j == 1  or j == i or j == row - 1):
+#             print("*", end=' ')
+#         else:
+#             print(" ", end=' ')
+#     print()
+
