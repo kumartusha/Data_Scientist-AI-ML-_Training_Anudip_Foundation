@@ -149,7 +149,7 @@ Check out the **Kaggle Dataset** we’ll be using for this project here: [Link t
 
 <br>
 
----
+----
 
 ## 💻 **Getting Started**
 ### 1. Clone the Repository:
