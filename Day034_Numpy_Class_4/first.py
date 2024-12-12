@@ -1,6 +1,5 @@
 import numpy as np
 
-
 # array_1d = np.array([[1,2,3],[4,5,6],[7,8,9]])
 # array_2d = np.array([[11,12,13],[14,15,16],[17,18,19]])
 # concat = np.concatenate(array_1d + array_2d)
@@ -50,7 +49,7 @@ import numpy as np
 
 # **************************************************************************************************************************************************************
 
-array1 = np.array([1,1,2,2,3,3,4,4,5,5,6,6,7])
+# array1 = np.array([1,1,2,2,3,3,4,4,5,5,6,6,7])
 
 # array2 = np.unique(array1)
 # array2 = np.unique_all(array1)
@@ -119,7 +118,6 @@ array1 = np.array([1,1,2,2,3,3,4,4,5,5,6,6,7])
 # array2 = np.add(arr1,arr2)
 # print(array2)
 
-array1 = np.array([[1,2,3], [4,5,6], [7,8,9]])
 # array1 = np.array([[1,2,3], [4,5,6], [7,8,9]])
 
 # array1[0:1,0:1] = 0
@@ -127,4 +125,40 @@ array1 = np.array([[1,2,3], [4,5,6], [7,8,9]])
 # array1[0:3,0:2] = 0
 # array1[0:3,0:2] = 0
 
-print(array1)
+# print(array1)
+
+
+#  multidimensional array operation perform..
+# mat1 = np.array([[1,2], [3,4]])
+# mat2 = np.array([[5,6], [7,8]])
+
+# print(np.dot(mat1, mat2))
+
+
+# arr1 = [1,2,3,4,7,4,5,54,56,7,4]
+
+# print(np.mean(arr1))
+# print(np.sum(arr1))
+# print(np.min(arr1))
+# print(np.max(arr1))
+
+# print(np.random.rand(1,2))
+# print(np.random.randint(1,100))
+# print(np.random.randint(1,100, 10))
+
+
+#  Get the array Greater than the specific Range..
+# arr1 = np.array([1,2,3,4,5])
+# print(arr1[arr1 > 2])
+
+# list1 = [1,1,1,2,2,3,3,3,4]
+# print(np.unique(list1))
+# print(np.unique_all(list1))
+
+
+# list1 = [1,2,3,22,31,2,33]
+# print(sorted(list1))
+
+# list1 = [1,3,22,3,1,23,4,55,4,1]
+# print(np.sort(list1))
+
