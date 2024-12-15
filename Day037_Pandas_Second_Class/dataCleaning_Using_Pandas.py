@@ -22,7 +22,3 @@ import pandas as pd
 # df = pd.read_csv("Data_Analysis_Training_Anudip_Foundation\\Day037_Pandas_Second_Class\\data.csv")
 # # df.fillna(df["Volume"].mean(), inplace=True)
 # print(df)
-
-
-
-

@@ -34,6 +34,7 @@ data = {"cal": [400,500,600,700],
 datset = pd.DataFrame(data)
 print(datset.loc[0])
 print(datset.loc[0:3])
+print(datset.loc[0:1, 0,1])
 
 
 # Home work..
