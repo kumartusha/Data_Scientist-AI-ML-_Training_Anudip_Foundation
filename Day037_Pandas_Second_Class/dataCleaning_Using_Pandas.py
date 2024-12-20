@@ -1,15 +1,16 @@
 import pandas as pd
 
 # 
-# df = pd.read_csv("Data_Analysis_Training_Anudip_Foundation\Day037_Pandas_Second_Class\data.csv")
+# df = pd.read_csv("Data_Analysis_Training_Anudip_Foundation\Day037_Pandas_Second_Class\Housing.csv")
 # print(df.to_string())
+# print(df)
 
 
 # df = pd.read_csv("Data_Analysis_Training_Anudip_Foundation\Day037_Pandas_Second_Class\data.csv")
 # # new_df = df.dropna()
 
 
-# df = df["Volume"].fillna(1230, inplace=True)
+# df["Volume"].fillna(1230, inplace=True)
 # print(df)
 
 #  fill the values into the emplty cell of any particular column.. ************************************************************************************

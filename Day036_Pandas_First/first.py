@@ -28,13 +28,13 @@ import pandas as pd
 # print(datset)
 
 # Locate Row **********************
-data = {"cal": [400,500,600,700],
-           "dur": [570, 587, 985, 894]}
+# data = {"cal": [400,500,600,700],
+#            "dur": [570, 587, 985, 894]}
 
-datset = pd.DataFrame(data)
-print(datset.loc[0])
-print(datset.loc[0:3])
-print(datset.loc[0:1, 0,1])
+# datset = pd.DataFrame(data)
+# print(datset.loc[0])
+# print(datset.loc[0:3])
+# print(datset.loc[0:1, 0,1])
 
 
 # Home work..
