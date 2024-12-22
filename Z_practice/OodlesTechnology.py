@@ -34,4 +34,5 @@
 
 # # Step 3: Call the decorated function
 # say_hello()
-_
+
+#  How to return the value from the function in python.
