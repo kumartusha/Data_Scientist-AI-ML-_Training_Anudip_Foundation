@@ -1,6 +1,5 @@
 import pandas as pd
 
-# 
 # df = pd.read_csv("Data_Analysis_Training_Anudip_Foundation\Day037_Pandas_Second_Class\Housing.csv")
 # print(df.to_string())
 # print(df)
