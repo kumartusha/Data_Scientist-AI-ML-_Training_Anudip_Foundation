@@ -1,0 +1,79 @@
+Question 1: Write the HTML code to create a basic webpage with a header, a paragraph, and an ordered list with three items.
+Answer 1:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basic Webpage</title>
+</head>
+<body>
+
+     <header class = "main_header"> Mobiloitte Technologies </header>
+     <p class = "main_para"> Mobiloitte working on a cutting edge technologies like the AI, BlockChain, and IOT </p>
+     <ol>
+           <li> Artificial Intelligence </li>
+           <li> Machine Learning </li>
+           <li> BlockChain </li>
+     </ol>
+
+</body>
+</html>
+
+Question 2: Write the CSS code to style the webpage created in Question 1. The header should be blue, the paragraph should 
+have a font size of 16px, and the ordered list items should be in green color.
+Answer 2:  
+       .main_header{
+              color: blue;
+             }
+       .main_para{
+             font-size: 16px;
+         }
+       ul > li {
+          color: green;
+          }
+      
+
+Question 3: Write an SQL query to create a table named Employees with columns ID (integer, primary key), Name (text), Position (text),
+ and Salary (integer).
+ Answer 3: 
+CREATE TABLE Employees (
+    columns_ID integer primary key,
+    Name text not null,
+    Position  text not null,
+    Salary  integer not null
+);
+
+Question 4: Write an SQL query to insert a new employee into the Employees table with the following details: ID = 1, Name = 'John Doe', 
+Position = 'Developer', Salary = 50000.
+ 
+Answer 4:
+INSERT INTO Employees (ID, Name, Position, Salary)
+
+VALUES (1, "John Doe", , "Developer", 50000);
+
+
+Question 5: Write a Python function that takes a list of numbers as input and returns the average of those numbers.
+Answer 5: 
+def calculate_average(numbers):
+       sum = 0;        # declare the sum = 0
+       length = len(numbers)
+       for i in range(length):   # traverse the list and find the sum
+             sum += i
+       avg = (sum ) // length
+       return avg            # return average of the list
+
+numbers = [1,2,3,4,5,6,7]    #  List Declare
+returnAvg = calculate_average(numbers)  # call the functiom//
+print("The average are", returnAvg)
+
+Question 6: Write a Python script to read a text file called data.txt and print its contents.
+Answer 6:
+with open("data.txt", "r") as file:     # read the file..
+      print(file.readlines)                  # Print all the contents of the file..
+        
+   
+
+
+
+
