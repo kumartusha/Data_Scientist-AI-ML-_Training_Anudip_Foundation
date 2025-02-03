@@ -1,4 +1,4 @@
-# 📊 **Data Analytics (No + Low Code) (DANLC)**  
+# 📊 **Data Scientist (AI-ML) Training**  
 Welcome to the **Data Analytics (No + Low Code) (DANLC)** course repository! This course is tailored for individuals looking to gain data analytics skills using minimal or no coding tools. Through this course, you'll learn advanced data visualization, Python programming, SQL, and essential business communication skills with real-world projects.
 
 ---
